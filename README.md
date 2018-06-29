@@ -9,4 +9,4 @@ website: https://nguyenhuyhieu.com
 facebook: https://facebook.com/nguyenhuyhieu1995 */
 
 
-![alt text](https://raw.githubusercontent.com/nguyenhuyhieu1995/bvu-student/master/screenshot.png)
+![alt text](https://github.com/nguyenhuyhieu1995/react-native-wordpress-app/blob/master/screenshot.png)
